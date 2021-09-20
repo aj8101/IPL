@@ -1,5 +1,3 @@
-![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/ipl.jpeg)
-<br>
 # IPL-Score-Prediction-with-Flask-Deployment
 Heroku App Link : https://iplscoreprediction.herokuapp.com/
 
@@ -25,9 +23,7 @@ Heroku App Link : https://iplscoreprediction.herokuapp.com/
 
 # Requirements Installation
 
-**The Code is written in Python 3.7. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository**
-
-    pip install -r requirements.txt
+**The Code is written in Python 3.7.**
     
 # The Python file has following sections:
 
